@@ -26,7 +26,8 @@
 
 
 ### 编程「伪代码」游戏推荐
-  - Human Resource Machine
+  
+  - Human Resource Machine
   - Swift Playground
  
 1. 购买链接来自京东
