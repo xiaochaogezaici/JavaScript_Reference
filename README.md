@@ -2,21 +2,18 @@
 
 ### JS 犀牛书
 
-- 电子书:
-    
-    链接: https://pan.baidu.com/s/1bprSeRl 密码: v3nr
+- 电子书下载: https://pan.baidu.com/s/1bprSeRl 密码: v3nr
 
-- 购买1：
-    http://item.jd.com/10974436.html
+- 购买1：http://item.jd.com/10974436.html
 
 
 
 ### 推荐课程
 
-- MarkDown写作指南2
+- MarkDown写作指南 2
     - [Markdown 語法官方說明繁體中文版](http://zh.mweb.im/markdown-syntax-guide-full-version-zh.html)
     - [Markdown 语法和 MWeb 写作使用说明](http://zh.mweb.im/markdown-syntax-guide-suggest-version-zh.html)
-    - 关于 MWeb 3
+    - 关于 MWeb  3
 - 新生大学 JS 课程
     https://js.xinshengdaxue.com/
 - Git 简易指南
@@ -28,8 +25,8 @@
 
 
 
-### 编程「伪代码」游戏
-  - Human Resource Machine
+### 编程「伪代码」游戏推荐
+  - Human Resource Machine
   - Swift Playground
  
 1. 购买链接来自京东
