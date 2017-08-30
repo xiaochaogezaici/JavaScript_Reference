@@ -15,13 +15,13 @@
     - [Markdown 语法和 MWeb 写作使用说明](http://zh.mweb.im/markdown-syntax-guide-suggest-version-zh.html)
     - 关于 MWeb  3
 - 新生大学 JS 课程
-    https://js.xinshengdaxue.com/
+    - https://js.xinshengdaxue.com/
 - Git 简易指南
-    http://rogerdudler.github.io/git-guide/index.zh.html 
+    - http://rogerdudler.github.io/git-guide/index.zh.html 
 - w3c School
-    http://www.w3chtml.com/js/
+    - http://www.w3chtml.com/js/
 - CodeSchool (需要科学上网)
-    https://www.codeschool.com/courses
+    - https://www.codeschool.com/courses
 
 
 
